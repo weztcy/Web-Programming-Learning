@@ -1,14 +1,14 @@
 # Web Programming Collection
 
-This repository contains a collection of source code and web programming exercises using **HTML, CSS, JavaScript, and PHP**.
+This repository contains a collection of web development source code and implementations using **HTML, CSS, JavaScript, and PHP**.
 
-It serves as a place to store various web development implementations and exercises, ranging from page structure and styling to website interactions and data processing using PHP.
+It serves as a centralized repository for various frontend and backend implementations, ranging from page structure and interface styling to interactive functionality, server-side processing, and database integration.
 
 ## 🛠️ Requirements
 
 The requirements may vary depending on the technology used in each project.
 
-For HTML, CSS, and JavaScript projects, a web browser is generally sufficient.
+For HTML, CSS, and JavaScript projects, a modern web browser is generally sufficient.
 
 For PHP projects, a web server with PHP support is required, such as:
 
@@ -33,7 +33,7 @@ Navigate to the repository directory:
 cd Web-Programming
 ```
 
-For HTML, CSS, and JavaScript projects, open the following file:
+For HTML, CSS, and JavaScript projects, open the main HTML file, typically:
 
 ```text
 index.html
@@ -41,19 +41,18 @@ index.html
 
 using a web browser.
 
-For PHP projects, run them using a web server or PHP development server according to the project requirements.
+For PHP projects, run them through a supported web server or PHP development environment according to the project requirements.
 
 ## 🎯 Repository Purpose
 
-This repository is used to:
+This repository is maintained to:
 
-* Store web programming learning materials
-* Collect various web development source codes
-* Practice basic frontend and backend development
-* Learn HTML, CSS, JavaScript, and PHP
-* Learn data processing and database integration
-* Improve problem-solving skills in web development
-* Serve as a personal reference for website development
+* Organize various web development implementations
+* Maintain frontend and backend source code references
+* Document interface, interaction, and data-processing implementations
+* Centralize HTML, CSS, JavaScript, and PHP projects
+* Maintain reusable web development components and references
+* Provide a structured collection of web development projects and experiments
 
 ## 🤝 Contribution
 
@@ -69,8 +68,8 @@ To contribute:
 
 ## 📜 License
 
-The source code in this repository may be used for learning and reference purposes.
+The source code in this repository is available for reference, experimentation, and development purposes.
 
 ---
 
-**Happy Coding & Web Development! 🚀**
+**Web Programming Collection — Frontend, Backend & Web Development Implementations**
