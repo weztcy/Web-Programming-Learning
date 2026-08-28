@@ -1,75 +1,75 @@
 # Web Programming Collection
 
-Repository ini berisi kumpulan source code dan latihan pemrograman web menggunakan **HTML, CSS, JavaScript, dan PHP**.
+This repository contains a collection of source code and web programming exercises using **HTML, CSS, JavaScript, and PHP**.
 
-Repository dibuat sebagai tempat untuk menyimpan berbagai implementasi dan latihan pengembangan web, mulai dari pembuatan struktur halaman, styling, interaksi pada website, hingga pengolahan data menggunakan PHP.
+It serves as a place to store various web development implementations and exercises, ranging from page structure and styling to website interactions and data processing using PHP.
 
 ## 🛠️ Requirements
 
-Untuk menjalankan beberapa project di repository ini, kebutuhan dapat berbeda tergantung teknologi yang digunakan.
+The requirements may vary depending on the technology used in each project.
 
-Untuk HTML, CSS, dan JavaScript, cukup menggunakan web browser.
+For HTML, CSS, and JavaScript projects, a web browser is generally sufficient.
 
-Untuk project PHP, diperlukan web server yang mendukung PHP, seperti:
+For PHP projects, a web server with PHP support is required, such as:
 
 * Apache
 * XAMPP
 * Laragon
 * PHP Built-in Server
 
-Beberapa project juga dapat menggunakan database seperti MySQL.
+Some projects may also use a database such as MySQL.
 
-## ▶️ Cara Menjalankan
+## ▶️ How to Run
 
-Clone repository:
-
-```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
-```
-
-Masuk ke directory repository:
+Clone the repository:
 
 ```bash
-cd REPOSITORY
+git clone https://github.com/weztcy/Web-Programming.git
 ```
 
-Untuk project HTML, CSS, dan JavaScript, buka file:
+Navigate to the repository directory:
+
+```bash
+cd Web-Programming
+```
+
+For HTML, CSS, and JavaScript projects, open the following file:
 
 ```text
 index.html
 ```
 
-menggunakan web browser.
+using a web browser.
 
-Untuk project PHP, jalankan menggunakan web server atau PHP development server sesuai kebutuhan project.
+For PHP projects, run them using a web server or PHP development server according to the project requirements.
 
-## 🎯 Tujuan Repository
+## 🎯 Repository Purpose
 
-Repository ini digunakan untuk:
+This repository is used to:
 
-* Menyimpan dokumentasi pembelajaran pemrograman web
-* Mengumpulkan berbagai source code web
-* Melatih kemampuan frontend dan backend dasar
-* Mempelajari HTML, CSS, JavaScript, dan PHP
-* Mempelajari pengolahan data dan database
-* Melatih kemampuan problem solving dalam pengembangan web
-* Menjadi referensi pribadi untuk pengembangan website
+* Store web programming learning materials
+* Collect various web development source codes
+* Practice basic frontend and backend development
+* Learn HTML, CSS, JavaScript, and PHP
+* Learn data processing and database integration
+* Improve problem-solving skills in web development
+* Serve as a personal reference for website development
 
 ## 🤝 Contribution
 
-Contribution, improvement, dan suggestion sangat diterima.
+Contributions, improvements, and suggestions are welcome.
 
-Silakan:
+To contribute:
 
-1. Fork repository
-2. Buat branch baru
-3. Tambahkan atau perbaiki source code
-4. Commit perubahan
-5. Buat Pull Request
+1. Fork the repository
+2. Create a new branch
+3. Add or improve the source code
+4. Commit your changes
+5. Create a Pull Request
 
 ## 📜 License
 
-Source code pada repository ini dapat digunakan untuk keperluan pembelajaran dan referensi.
+The source code in this repository may be used for learning and reference purposes.
 
 ---
 
